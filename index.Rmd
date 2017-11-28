@@ -1,0 +1,47 @@
+---
+title: 'eGov-page'
+output:
+  html_document:
+    code_folding: hide
+    toc: TRUE
+    toc_float: TRUE
+---
+
+Die folgende Zusammenstellung ist im Aufbau.
+
+### eGovernment Monitor
+
+Der eGovernment Monitor gibt einmal im Jahr einen Überblick über den Stand des eGovernment in Deutschland, Österreich und der Schweiz.
+
+* [Offizielle Website](http://www.egovernment-monitor.de/)
+
+* [eGovernment Monitor 2017](http://www.egovernment-monitor.de/die-studie/2017.html)
+
+### Portale/Platformen
+
+* Baden-Württemberg: [Service-BW](https://www.service-bw.de/)
+
+* Bayern: [BayernPortal](https://www.freistaat.bayern/)
+
+### Einrichtungen
+
+* Lehrstuhl für Wirtschaftsinformatik der TUM [Website]()
+
+* Iniziative D21 [Website](initiatived21.de)
+
+* fortiss GmbH [Website](https://www.fortiss.org)
+
+### Softwaredienstleister
+
+* AKDB [Website](https://www.akdb.de/)
+
+### Podcasts
+
+* [eGovernment-Podcast](https://egovernment-podcast.com/)
+
+### klassische Anwendungsfälle
+
+* Umzug
+* KFZ-Anmeldung
+* tbc
+
