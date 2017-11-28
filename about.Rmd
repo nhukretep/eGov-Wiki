@@ -5,7 +5,6 @@ output:
     code_folding: hide
     toc: FALSE
     toc_float: TRUE
-
 ---
 
 Hier entsteht eine Sammlung von Basisinfos, Links und Übersichten zum Thema eGovernment.
