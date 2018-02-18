@@ -1,11 +1,27 @@
 ---
-title: 'eGov-page'
+title: 'eGovernment'
 output:
   html_document:
     code_folding: hide
     toc: TRUE
     toc_float: TRUE
 ---
+
+## Definition
+
+Zitat [Wikipedia](https://de.wikipedia.org/wiki/E-Government):
+
+*"die Vereinfachung und Durchführung von Prozessen zur Information, Kommunikation und Transaktion innerhalb und zwischen staatlichen, kommunalen und sonstigen behördlichen Institutionen sowie zwischen diesen Institutionen und Bürgern bzw. Unternehmen durch den Einsatz von digitalen Informations- und Kommunikationstechnologien."*
+
+also vier Teile:
+
+* Vereinfachung und Durchführung von Prozessen
+*	zur Information, Kommunikation und Transaktion 
+*	innerhalb und zwischen staatlichen, kommunalen und sonstigen behördlichen Institutionen 
+* sowie zwischen diesen Institutionen und Bürgern bzw. Unternehmen 
+* durch den Einsatz von digitalen Informations- und Kommunikationstechnologien.
+
+## Infos
 
 Die folgende Zusammenstellung ist im Aufbau.
 
