@@ -1,0 +1,18 @@
+---
+title: 'Dritte'
+output: html_document
+---
+
+## Organisationen
+* D21
+* NEGZ
+* N3GZ
+
+## Beratungen
+
+## Softwarehersteller
+
+## IT-Dienstleister
+
+## Community
+

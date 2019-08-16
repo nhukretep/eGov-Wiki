@@ -1,63 +1,23 @@
 ---
-title: 'eGovernment'
-output:
-  html_document:
-    code_folding: hide
-    toc: TRUE
-    toc_float: TRUE
+title: 'E-Government in Deutschland'
+output: html_document
 ---
 
-## Definition
+Eine Sammlung von Ressourcen, Übersichten und Links zum Thema E-Government in Deutschland
 
-Zitat [Wikipedia](https://de.wikipedia.org/wiki/E-Government):
+## Übersicht
 
-*"die Vereinfachung und Durchführung von Prozessen zur Information, Kommunikation und Transaktion innerhalb und zwischen staatlichen, kommunalen und sonstigen behördlichen Institutionen sowie zwischen diesen Institutionen und Bürgern bzw. Unternehmen durch den Einsatz von digitalen Informations- und Kommunikationstechnologien."*
+![Mindmap E-Government](./mindmap-e-government.png)
 
-also vier Teile:
+Hier geht's zu den einzelnen Aspekten:
 
-* Vereinfachung und Durchführung von Prozessen
-*	zur Information, Kommunikation und Transaktion 
-*	innerhalb und zwischen staatlichen, kommunalen und sonstigen behördlichen Institutionen 
-* sowie zwischen diesen Institutionen und Bürgern bzw. Unternehmen 
-* durch den Einsatz von digitalen Informations- und Kommunikationstechnologien.
+* [Nutzer:innen](nutzerinnen.html)
+* [Verwaltung](verwaltung.html)
+* [Politik](politik.html)
+* [Forschung](forschung.html)
+* ["Dritte"](dritte.html)
 
-## Infos
-
-Die folgende Zusammenstellung ist im Aufbau.
-
-### eGovernment Monitor
-
-Der eGovernment Monitor gibt einmal im Jahr einen Überblick über den Stand des eGovernment in Deutschland, Österreich und der Schweiz.
-
-* [Offizielle Website](http://www.egovernment-monitor.de/)
-
-* [eGovernment Monitor 2017](http://www.egovernment-monitor.de/die-studie/2017.html)
-
-### Portale/Platformen
-
-* Baden-Württemberg: [Service-BW](https://www.service-bw.de/)
-
-* Bayern: [BayernPortal](https://www.freistaat.bayern/)
-
-### Einrichtungen
-
-* Lehrstuhl für Wirtschaftsinformatik der TUM [Website]()
-
-* Iniziative D21 [Website](initiatived21.de)
-
-* fortiss GmbH [Website](https://www.fortiss.org)
-
-### Softwaredienstleister
-
-* AKDB [Website](https://www.akdb.de/)
-
-### Podcasts
+## Ressourcen
 
 * [eGovernment-Podcast](https://egovernment-podcast.com/)
-
-### klassische Anwendungsfälle
-
-* Umzug
-* KFZ-Anmeldung
-* tbc
 

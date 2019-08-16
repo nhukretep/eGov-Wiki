@@ -1,0 +1,17 @@
+---
+title: 'Verwaltung'
+output: html_document
+---
+
+## Iniziativen
+* Tech4Germany
+
+## Vorreiter
+* Ulm
+
+## Labore
+* Ansbach
+
+## Konferenzen
+* Creative Bureaucrarcy Festival
+* Smart Country Convention

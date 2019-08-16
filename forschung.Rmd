@@ -1,0 +1,40 @@
+---
+title: 'Forschung'
+output: html_document
+---
+
+## Institute
+* FÖV
+* LvS
+* FOKUS/ÖFIT
+* fortiss
+
+## Lehrstühle / Personen
+* Becker / Münster
+* Bittner / Hamburg
+* Krcmar /München
+* Leimeister / Kassel
+* Parycek / Krems
+* von Lucke / Friedrichshafen
+
+## Journals
+* Government Information Quarterly (GIQ)
+* Information Polity (IP)
+* International Journal of Electronic Government Research (IJEGR)
+* International Journal of Public Administration in the Digital Age (IJPADA)
+* Transforming Government: People, Process and Policy (TGPPP)
+* Journal of Information Technology & Politics (JITP)
+* Electronic Government, an International Journal (EGaIJ)
+* Electronic Journal of Electronic Government (EJEG)
+
+## Conferences
+* ICIS (International Conference on Information Systems)
+* HICSS (Hawaii International Conference on System Sciences - e-Gov track)
+* IFIP EGOV (International Federation for Information Processing)
+* dg.o (Digital Government Society of North America)
+* ICEGOV (International Conference on Theory and Practice of Electronic Governance)
+* CeDEM (International Conference for E-Democracy and Open Government )
+* WI (Internationaler Wirtschaftsinformatik Kongress)
+
+## Ressources
+* [DGRL](https://faculty.washington.edu/jscholl/dgrl/index.php)(Digital Government Reference Library)

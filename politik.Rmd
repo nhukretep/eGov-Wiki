@@ -1,0 +1,17 @@
+---
+title: 'Politik'
+output: html_document
+---
+
+## Gesetze
+* EGovG
+* OZG
+
+## Institutionen
+* IT-Planungsrat
+* FITKO
+
+## Konzepte
+* Portalverbund
+* FIM
+* Once-Only

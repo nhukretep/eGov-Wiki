@@ -1,9 +1,19 @@
-name: "eGov-page"
+name: "eGov-Wiki"
 navbar:
-  title: "eGov-page"
+  title: "eGov-Wiki"
   left:
     - text: "Home"
       href: index.html
+    - text: "Nutzer:innen"
+      href: nutzerinnen.html
+    - text: "Verwaltung"
+      href: verwaltung.html
+    - text: "Politik"
+      href: politik.html
+    - text: "Forschung"
+      href: forschung.html
+    - text: "Dritte"
+      href: dritte.html
     - text: "About"
       href: about.html
 output_dir: "docs"
