@@ -1,6 +1,6 @@
 ---
 title: 'About'
-output:html_document
+output: html_document
 ---
 
 Hier entsteht eine Sammlung von Basisinfos, Links und Übersichten zum Thema eGovernment.
