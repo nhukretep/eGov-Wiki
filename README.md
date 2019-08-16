@@ -1,4 +1,4 @@
-# eGov-page
-collection of info about eGovernment topics
+# eGov-Wiki
+collection of info about E-Government in Germany
 
-git-repository of [https://nhukretep.github.io/eGov-page/](https://nhukretep.github.io/eGov-page/)
+git-repository of [https://nhukretep.github.io/eGov-Wiki/](https://nhukretep.github.io/eGov-Wiki/)
