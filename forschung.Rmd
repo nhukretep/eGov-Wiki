@@ -29,11 +29,11 @@ output: html_document
 
 ## Conferences
 * ICIS (International Conference on Information Systems)
+* ECIS (European Conference on Information Systems)
 * HICSS (Hawaii International Conference on System Sciences - e-Gov track)
 * IFIP EGOV (International Federation for Information Processing)
 * dg.o (Digital Government Society of North America)
 * ICEGOV (International Conference on Theory and Practice of Electronic Governance)
-* CeDEM (International Conference for E-Democracy and Open Government )
 * WI (Internationaler Wirtschaftsinformatik Kongress)
 
 ## Ressources
